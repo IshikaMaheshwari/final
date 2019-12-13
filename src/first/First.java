@@ -6,5 +6,6 @@ public class First {
         System.out.println("Hi Ishika added first times");
         System.out.println("1m");
         System.out.println("2m");
+        System.out.println("3m");
     }
 }
